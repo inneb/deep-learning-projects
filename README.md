@@ -1,4 +1,4 @@
-# deep-learning-projects
+# Deep Learning Projects
 
 Here I publish my deep learning projects, mainly the once from my 
 [Udacity][udacity] [Foundation Nanodegree][dl].
@@ -6,19 +6,31 @@ Here I publish my deep learning projects, mainly the once from my
 ### Projects ###
 
 #### DONE ####
-*Project 1* - Your First Neural Networ
+*Project 1* - Your First Neural Network
 
->Build a simple network to make predictions of bike sharing usage.
+>Build a simple network to make predictions of bike sharing usage. 
 
-#### TO COME ####
+For this project we used a **Feed Forward Neural Network (FNN)** to predict the demand for bicycles near Washington. 
+
+
+
 *Project 2* - Object Recognition
 
->Build a neural network that detects objects from images.
+> Build a neural network that detects objects from images.
+
+For this project we used a **Convolutional Neural Network (CNN)** to classify images.
+
+
 
 *Project 3* - Generate TV Scripts
 
->Use deep learning to generate new scripts for your favorite TV show.
+> Use deep learning to generate new scripts for your favorite TV show.
 
+For this project we used a **Recurrent Neural Network (RNN)** with **Long-Short Term Memory (LSMT) Cells** to write a script for a Simpsons episode.
+
+
+
+#### UPCOMING ####
 *Project 4* - Make a Translation Chatbot
 
 >Build a chatbot that translates text in real time.

@@ -30,11 +30,15 @@ For this project we used a **Recurrent Neural Network (RNN)** with **Long-Short 
 
 
 
-#### UPCOMING ####
 *Project 4* - Make a Translation Chatbot
 
->Build a chatbot that translates text in real time.
+> Build a chatbot that translates text in real time.
 
+Using a **sequene to sequence (seq2seq)** Neural Network to program a English-French translator.
+
+
+
+#### UPCOMING ####
 *Project 5* - Generate Faces
 
 >Use a generative adversarial network (GAN) to generate novel faces.

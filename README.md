@@ -38,10 +38,13 @@ Using a **sequene to sequence (seq2seq)** Neural Network to program a English-Fr
 
 
 
-#### UPCOMING ####
 *Project 5* - Generate Faces
 
->Use a generative adversarial network (GAN) to generate novel faces.
+> Use a generative adversarial network (GAN) to generate novel faces.
+
+In this project a **generative adversarial network (GAN)**, which are actually two neural networks playing a *min-max-game*, trying to fool each other that their output is real, are used to generate new images of handwritten characters and celebrity faces.
+
+
 
 [udacity]: https://www.udacity.com/ "Udacity"
 
